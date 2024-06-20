@@ -1,3 +1,3 @@
 Test markdown.
 
-[Godot](/godot/godot.md)
+[Godot](godot/godot.md)
