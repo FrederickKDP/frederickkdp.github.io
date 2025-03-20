@@ -2,5 +2,5 @@
 title: My Projects
 ---
 ## Featured Projects
-1. **Project 1** - [Link to Demo](#)
-  A brief description of the project and its features.
+1. **Flappy planes** - [https://fredev-k.itch.io/flappy-planes](https://fredev-k.itch.io/flappy-planes)
+  Multi-platform online/offline single and multiplayer game.
