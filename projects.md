@@ -1,5 +1,5 @@
 ---
-title: My Projects
+title: Projects
 ---
 ## Featured Projects
 1. **Flappy planes** - [https://fredev-k.itch.io/flappy-planes](https://fredev-k.itch.io/flappy-planes)
