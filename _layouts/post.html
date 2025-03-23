@@ -19,7 +19,7 @@ layout: default
     {{ content }}
   </div>
 
-  <span>
+  <meta attribute-name=”tags”>
     Tags:
       {% for tag in site.tags %}
         <a href="{{ site.url }}{{ '#' | escape }}{{ tag[0] }}">{{ tag[0] }}</a>
@@ -27,7 +27,7 @@ layout: default
         ,  
         {% endif %}
       {% endfor %}
-  </span>
+  </meta>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
