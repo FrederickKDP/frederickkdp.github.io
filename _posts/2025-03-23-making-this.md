@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting a portfolio in Jekyll!"
-date:   2025-03-23 14:15:31
+date:   2025-03-23 14:15:31 -0700
 categories: jekyll update
 tags: update web
 ---
