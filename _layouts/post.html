@@ -17,8 +17,8 @@ layout: default
 
   {%- if page.cover -%}
   <span>
-    <meta property="og:image" content={{ page.cover | escape }}>
-    <img src={{ page.cover | escape }} alt="Cover">
+    <meta property="og:image" content="{{ site.url }}{{ '/' | escape }}{{ page.cover | escape }}">
+    <img src="{{ page.cover | escape }}" alt="Cover">
   </span>
   {%- endif -%}
     
