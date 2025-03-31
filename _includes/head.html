@@ -9,5 +9,6 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   {%- if post.cover -%}
+    <meta property="og:image" content={{ post.cover | escape }}>
   {%- endif -%}
 </head>
