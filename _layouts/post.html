@@ -21,7 +21,7 @@ layout: default
 
   <meta attribute-name=”tags”>
     Tags:
-      {% for tag in site.tags %}
+      {% for tag in page.tags %}
         <a href="{{ site.url }}{{ '#' | escape }}{{ tag[0] }}">{{ tag[0] }}</a>
         {% if loop.index < loop.length %}
         ,  
