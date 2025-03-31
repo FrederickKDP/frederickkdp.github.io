@@ -3,7 +3,7 @@ layout: post
 title:  "Starting a portfolio in Jekyll!"
 date:   2025-03-23 14:15:31 -0700
 categories: jekyll update
-tags: update web
+tags: [update, web]
 ---
 For long I looked for a way to publish my software developer thoughts online. I wanted something that is:
 
